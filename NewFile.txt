@@ -1,2 +1,3 @@
-new commit from loacal repo.
+new commit from local repo.
 ashu branch
+some more changes
