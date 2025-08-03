@@ -1,0 +1,2 @@
+New and optimized way to implement the same feature no 1.
+//code refactored.
