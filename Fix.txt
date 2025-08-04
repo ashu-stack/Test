@@ -1,3 +1,4 @@
 Fix for the issue-no-1.
 contributed by Ashutosh Shukla.
 simple change in feature1
+another change in feature1
